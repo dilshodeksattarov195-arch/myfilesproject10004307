@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsfonnect",
+        "uuid": 8450334,
+        "checksum": "myufv4"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
